@@ -3,7 +3,7 @@
 This project is aimed at analysing different heart Issues and it's  effects on different gender
 
 ### Data Source
-(https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store)
+https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset/code
 
 ### Methods
 *  Data Cleaning and Preparation. The data was cleaned using Excel where 'SEX' column was changed from(0=male and 1=female) and 'TARGET' column (0=normal and 1= fixed defect) and Power Query to fix other functions
