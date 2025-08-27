@@ -1,6 +1,6 @@
 ## Analysis on Heart Conditions
 ### Project Overview
-This project is aimed at analysing different heart Issues and it's  effects on different gender and age.
+This project is aimed at analysing different heart Issues and it's  effects on different gender
 
 ### Data Source
 https://www.kaggle.com/datasets/spscientist/students-performance-in-exams/data
